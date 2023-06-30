@@ -68,9 +68,16 @@ if (!isset($_SESSION['logueado']) || $_SESSION['logueado'] !== true) {
     
 
     </pre>
-  </div>
-   
-    
+    <div>
+    <h1 style="background-color: #0066ff8c;color:black ; font-size: large; font-family: Arial, Helvetica, sans-serif;" ><center> 
+    Animaciones exclusivas</center></h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0cOsLTM5l9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/UhjYfL-fdR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CaryjOdYFa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   </div>
   </body>
 
 </html>
