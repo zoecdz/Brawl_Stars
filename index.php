@@ -33,7 +33,7 @@ if (!isset($_SESSION['logueado']) || $_SESSION['logueado'] !== true) {
        <li> <a href="Acerca de Brawl satrs/Acerca de brawl satars.php" >Acerca de Brawl Stars</a></li>
        <li> <a href="Brawlers/brawlers.php" >Brawlers.info</a></li>
        <li> <a href="juego/juego.php" >Como jugar</a></li>
-       <li> <a href="actualizaciones/actualizaciones.php" >Actualizaciones</a></li>
+       <li> <a href="actualizaciones/asctualizaciones.php" >Actualizaciones</a></li>
        <li><a href="skins/skins.php">Skins</a></li>
  </ul>
     

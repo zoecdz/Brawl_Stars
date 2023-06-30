@@ -64,37 +64,37 @@ if (!isset($_SESSION['logueado']) || $_SESSION['logueado'] !== true) {
 </ul>
     
      <div div="zoom"style="position: absolute; top: 120px;left: 15%;">
-      <a href="../trofeos/trofeos.html"> <img src="../IMG/trofeos.png" height="250 px" alt="">
+      <a href="../trofeos/trofeos.php"> <img src="../IMG/trofeos.png" height="250 px" alt="">
       <div class="texto-encima"><h1> Brawlers de <br> Camino de Trofeos</h1></div>
       </a>
     </div>
     <div style="position: absolute; top: 120px; left: 55%;">
-      <a href="../raro/raro.html"> <img src="../IMG/raro.png" height="250 px" alt="">
+      <a href="../raro/raro.php"> <img src="../IMG/raro.png" height="250 px" alt="">
       <div class="texto-encima"><h1>Brawlers <br> Poco Comunes</h1></div>
       </a>
     </div>
     <div style="position: absolute; top: 420px;left: 15%;">
-      <a href="../super raro/super raro.html"> <img src="../IMG/super raro.png" height="250 px" alt="">
+      <a href="../super raro/super raro.php"> <img src="../IMG/super raro.png" height="250 px" alt="">
       <div class="texto-encima"><h1> Brawlers <br> Raros</h1></div>
       </a>
     </div>
     <div style="position: absolute; top: 420px; left: 55%;">
-      <a href="../epico/epico.html"> <img src="../IMG/epico.png" height="250 px" alt="">
+      <a href="../epico/epico.php"> <img src="../IMG/epico.png" height="250 px" alt="">
       <div class="texto-encima"><h1> Brawlers <br> Epicos</h1></div>
       </a>
     </div>
     <div style="position: absolute; top: 720px;left: 15%;">
-      <a href="../mitico/mitico.html"> <img src="../IMG/mitico.png" height="250 px" alt="">
+      <a href="../mitico/mitico.php"> <img src="../IMG/mitico.png" height="250 px" alt="">
         <div class="texto-encima"><h1>Brawlers <br>  Miticos</h1></div>
       </a>
     </div>
     <div style="position: absolute; top: 720px; left: 55%;">
-      <a href="../legendario/legendario.html"> <img src="../IMG/legendario.png" height="250 px" alt="">
+      <a href="../legendario/legendario.php"> <img src="../IMG/legendario.png" height="250 px" alt="">
         <div class="texto-encima"><h1> Brawlers <br> Legendarios</h1></div>
       </a>
     </div>
     <div style="position: absolute; top: 1070px; left: 35%;">
-      <a href="../cromatico/cromatico.html"> <img src="../IMG/cromatico.png" height="250 px" alt="">
+      <a href="../cromatico/cromatico.php"> <img src="../IMG/cromatico.png" height="250 px" alt="">
         <div class="texto-encima"><h1> Brawlers <br> Cromaticos</h1></div>
       </a>
     </div>
